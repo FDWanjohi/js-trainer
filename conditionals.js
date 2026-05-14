@@ -34,19 +34,19 @@
 //     }else{"Username Correct format"}
 
 
-    let x = Number(prompt("Enter Age"))
-    let age = x>=18 ? "Eligible to Vote" : "Not Eligible to Vote"
-    console.log(age)
+    // let x = Number(prompt("Enter Age"))
+    // let age = x>=18 ? "Eligible to Vote" : "Not Eligible to Vote"
+    // console.log(age)
 
-    let marks = Number(prompt("Enter Marks"))
-    if (marks>70){
-        console.log("Student Grade is A")
-    }else if(marks<=69 && marks>60){
-        console.log("Student Grade is B")
-    }else if(marks<=59 && marks>50){
-        console.log("Student Grade is C")
-    }else if(marks<=49 && marks>40){
-        console.log("Student Grade is D")
-    }else{
-        console.log("Student Grade is F")
-    }
+    // let marks = Number(prompt("Enter Marks"))
+    // if (marks>70){
+    //     console.log("Student Grade is A")
+    // }else if(marks<=69 && marks>60){
+    //     console.log("Student Grade is B")
+    // }else if(marks<=59 && marks>50){
+    //     console.log("Student Grade is C")
+    // }else if(marks<=49 && marks>40){
+    //     console.log("Student Grade is D")
+    // }else{
+    //     console.log("Student Grade is F")}
+
