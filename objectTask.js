@@ -14,4 +14,4 @@ console.log(my_arr[3][2])
 // 5. Reverse 987 to 789 without using an inbuilt -method or Assigning 789 manually.
 
 // 6. Change the name “John” to “Jane” . 
-my_arr[6] = "Jane"
+
